@@ -1,0 +1,11 @@
+fastapi
+torch
+clip-anytorch
+starlette
+ultralytics
+pillow
+numpy
+opencv-python
+soundfile
+kokoro
+uvicorn
