@@ -1,4 +1,4 @@
-torch==2.5.1
+torch
 fastapi
 uvicorn
 starlette
@@ -8,4 +8,5 @@ opencv-python
 soundfile
 clip-anytorch
 ultralytics
+
 
